@@ -6,7 +6,7 @@ Lab 01
 '''
 
 #Welcome!
-print("Welcome to YehCalc V1.0!")
+print("Welcome to YehCalc V1.2!")
 userFirstNumber = int(input("First, give me a number: "))
 userSecondNumber = int(input("Give me one more: "))
 result = 0
